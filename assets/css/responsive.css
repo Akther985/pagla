@@ -1,0 +1,458 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  .breadcumb-area {
+    padding: 100px 0;
+  }
+  .poket-header-top {
+    background: #0c5adb;
+    padding: 10px 15px;
+  }
+  .karpen_nav_area.postfix {
+    display: none;
+  }
+  .top-right-menu ul.social-icons {
+    text-align: center !important;
+  }
+  .top-address.text-left {
+    text-align: center !important;
+  }
+  /* breadcumb area css */
+  .all_header_abs {
+    position: inherit;
+  }
+  .all_header_abs .karpen-header-top {
+    background: #0049ff;
+  }
+  .karpen-header-top {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  .creative_header_address {
+    padding-left: 10px;
+  }
+  .witr_containers {
+    width: 90%;
+  }
+  .witr_ds_content_area .slick-prev,
+  .witr_ds_content_area .slick-next {
+    top: 48%;
+  }
+  .call_action_witr_inner {
+    margin-top: -10px;
+  }
+  .witr_ds_content_inner h2,
+  .witr_ds_content_inner h3 {
+    font-size: 48px;
+  }
+  /* swiper slider */
+  .witr_sw_text_area {
+    width: 100%;
+  }
+  .witr_swiper_height {
+    height: 650px;
+  }
+  .witr_swiper_height {
+    width: 100% !important;
+  }
+  .w_slider_4 .witr_swiper_height {
+    margin-left: 0px !important;
+  }
+  .t1.witr_swiper_height {
+    width: 100% !important;
+  }
+  .w_slider_3 .t1.witr_swiper_height {
+    transform: translateX(0) !important;
+  }
+  .t2.witr_swiper_height {
+    width: 50% !important;
+    left: -20px;
+  }
+  .w_slider_3 .t2.witr_swiper_height {
+    transform: translateX(-50%) !important;
+    left: 91%;
+  }
+  .h5_swiper .witr_ds_content_inner h2 {
+    font-size: 35px;
+  }
+  .witr_swiper_area .text-left .slider_vd_icon {
+    right: 47%;
+    top: -28%;
+  }
+  .witr_sw_text_area.text-right,
+  .witr_sw_text_area.text-left {
+    text-align: center !important;
+  }
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swiper_content p,
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swiper_content p,
+  .text-center .witr_swiper_content h1,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3,
+  .text-center .witr_swiper_content p {
+    width: 85% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .witr_swiper_content h2,
+  .witr_swiper_content h3 {
+    font-size: 40px;
+  }
+  .text-right .witr_btn_sinner,
+  .text-left .witr_btn_sinner {
+    text-align: center !important;
+  }
+  .karpen-single-blog-details-inner {
+    padding: 38px 30px 45px;
+  }
+  .h3_swiper .witr_swiper_content h2 {
+    font-size: 45px;
+  }
+  
+  /*=========== banner area 2 css ===============*/
+  .banner_area {
+    height: 700px;
+  }
+  .banner-content h1,
+  .banner-content h2,
+  .banner-content h3 {
+    font-size: 45px;
+  }
+  .witr_deshboard {
+    margin-top: 30px;
+  }
+  /* single team page css */
+  .video-open-inline iframe {
+    height: 450px;
+  }
+  /* animate_banner_area */
+  .animate_banner_area .text-center.banner-content p,
+  .animate_banner_area .text-right.banner-content p,
+  .animate_banner_area .text-left.banner-content p {
+    width: 100% !important;
+  }
+  /*=========== Slick area css ===============*/
+  .witr_ds_content {
+    height: 550px !important;
+  }
+  .text-right .witr_ds_content_inner h1,
+  .text-right .witr_ds_content_inner h2,
+  .text-right .witr_ds_content_inner h3,
+  .text-right .witr_ds_content_inner p,
+  .text-left .witr_ds_content_inner h1,
+  .text-left .witr_ds_content_inner h2,
+  .text-left .witr_ds_content_inner h3,
+  .text-left .witr_ds_content_inner p,
+  .text-center .witr_ds_content_inner h1,
+  .text-center .witr_ds_content_inner h2,
+  .text-center .witr_ds_content_inner h3,
+  .text-center .witr_ds_content_inner p {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .text-right .slider_vd_icon {
+    left: 43% !important;
+    top: -13% !important;
+  }
+  .witr_slicks_title h4 {
+    font-size: 105px !important;
+  }
+  .slider_btn {
+    text-align: center;
+  }
+  .witr_slider_thumb.em_slider_s2_image {
+    display: none;
+  }
+  /* tutor */
+  .tutor-course-loop-title h2 a {
+    font-size: 17px;
+  }
+  /* Em-Creative Header */
+  .top_crt_style {
+    padding: 20px 0;
+  }
+  .tx_top_together {
+    justify-content: center;
+  }
+  .creative_header_curve {
+    display: none;
+  }
+  .creative_header_logo {
+    padding-right: 0;
+    text-align: center;
+  }
+  .em_creative_header {
+    background: transparent none repeat scroll 0 0;
+    z-index: 999;
+  }
+  .creative_header_button {
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .creative_header_button:before,
+  .em_creative_header:before,
+  .em_creative_header:after {
+    display: none;
+  }
+  .em_creative_header {
+    padding-bottom: 0;
+  }
+  .em-nivo-slider-wrapper .nivo-directionNav {
+    display: none;
+  }
+
+  .single_team_info_area .medi_singleService.wirt_s2_s6 h3 {
+    margin-top: 0;
+  }
+  .single_team_info_area .single_team_right_inner {
+    padding: 0;
+  }
+  /* section_title */
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h3 {
+    font-size: 30px;
+  }
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    margin: 0 auto;
+  }
+  .title_in_area {
+    width: 100%;
+  }
+  /* single portfolio2 */
+  #scrollUp {
+    bottom: 60px;
+    right: 30px;
+  }
+  /* ps slider */
+  .toggle_pslide {
+    display: inherit;
+  }
+  .witr_pslide5 .witr_content_pslide_text {
+    padding: 10px 15px 15px 15px;
+  }
+
+  /* New CSS Area Start */
+
+  /* top menu start */
+
+  .creative_header_icon i {
+    margin-left: 0px;
+  }
+
+  /* top menu end */
+
+  /* banner Area Start */
+
+  .witr_swiper_content {
+    text-align: center;
+  }
+  .witr_swiper_content p {
+    margin: 37px auto 15px auto;
+    width: 100%;
+    padding: 0 30px;
+  }
+
+  /* banner Area end */
+
+  /* Feature area start */
+
+  .sub-item {
+    margin-top: 30px;
+  }
+
+  /* Feature area end */
+
+  /* about area start */
+
+  .text_box h3 a {
+    font-size: 20px;
+  }
+  .about_img {
+    width: 20%;
+  }
+
+  /* about area end */
+
+  /* Service Area start */
+
+  .nav-tabs {
+    justify-content: center !important;
+  }
+  .service_list {
+    padding-top: 0px;
+  }
+  .choose_text .service_li span {
+    font-size: 15px;
+  }
+
+  /* Service Area end */
+
+  /* Question area start */
+
+  .question_area .witr_section_title_inner h3 {
+    font-size: 29px;
+  }
+  .question_area {
+    padding: 30px 20px;
+  }
+  .question_area .witr_ac_style {
+    font-size: 16px;
+  }
+  .witr_ac_style {
+    padding: 10px;
+  }
+  .question_area .card-2 p {
+    padding: 10px;
+  }
+  /* Question area end */
+
+  /* Testimonial Area start */
+  .em_testi_text p {
+    padding: 10px;
+  }
+  .testi_main .slick-prev {
+    left: -15px;
+  }
+  .testi_main .slick-next {
+    right: -15px;
+  }
+
+  /* Testimonial Area end */
+  .footer-bottom:before {
+    width: 100%;
+  }
+
+  /* New CSS Area End */
+}
+/* ------------------------------------------------- Small Mobile : 320 ---------------------------------------------------*/
+@media (max-width: 767px) { 
+  .text-right .witr_swiper_content h1,
+  .text-left .witr_swiper_content h1,
+  .text-center .witr_swiper_content h1 {
+    font-size: 20px;
+  }
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3 {
+    font-size: 25px;
+  }
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swiper_content p,
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swiper_content p,
+  .text-center .witr_swiper_content h1,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3,
+  .text-center .witr_swiper_content p {
+    width: 98% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .witr_swiper_content p {
+    font-size: 17px;
+  }
+  .text-right .witr_btn_sinner,
+  .text-left .witr_btn_sinner {
+    text-align: center !important;
+  }
+  /* New CSS Area Start */
+
+  /* Menu CSS custom */
+  .top_crt_style {
+    display: none;
+  }
+  .karpen-header-top {
+    text-align: center;
+  }
+  .top-address p span {
+    font-size: 13px;
+  }
+  .top-address p span i {
+    display: none;
+  }
+  .top-right-menu ul.social-icons li {
+    margin-left: 10px;
+  }
+}
+/* menu and logo show & hide */
+@media (min-width: 10px) and (max-width: 991px) {
+  .mobile-menu {
+    display: block !important;
+  }
+  .mobile_logo_area {
+    display: block !important;
+  }
+  .karpen-main-menu {
+    display: none !important;
+  }
+  .d_md_none {
+    display: none !important;
+  }
+  .em-feature {
+    margin-bottom: 20px;
+  }
+  .single_counter {
+    margin-bottom: 20px;
+  }
+  .mobile_menu_logo a{
+    font-size: 32px;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+}
+@media (min-width: 577px) and (max-width: 768px) {
+  h2 {
+    font-size: 42px;
+    line-height: 42px;
+}
+  .main-search-area {  
+    padding: 20px 20px;    
+}
+  .single-countre{
+    margin-bottom: 20px;
+  }
+  .single-city-area{
+    margin-bottom: 20px;
+  }
+  }  
+@media (min-width: 10px) and (max-width: 576px) {
+/* hero area style here  */
+.hero-info-area h2{
+  font-size: 32px;
+  line-height: 32px;  
+}
+.main-search-area {  
+  padding: 20px;
+}
+.single-countre{
+  margin-bottom: 10px;
+}
+h2 {
+  font-size: 32px;
+  line-height: 32px; 
+}
+.img-10 {  
+  height: 140px !important;
+}
+.single-city-area{
+  margin-bottom: 10px;
+}
+}
