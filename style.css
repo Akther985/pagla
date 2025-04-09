@@ -263,6 +263,7 @@ color: #ddd;
   padding: 20px;
   height: 100%;
   top: 80px;
+  z-index: 1600;
 }
 .sitebar-form h1{
   color: #333;
