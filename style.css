@@ -252,6 +252,26 @@ color: #ddd;
   color: #ddd;
   transition: 1s;
 }
+.nav-list-list{
+  position: relative;
+}
+.sub-menu{
+  position: absolute;
+  background-color: #2a2831;
+  list-style: none;
+  width: 210px;
+  padding: 20px;
+  visibility: hidden;
+  opacity: 0;
+}
+.sub-menu li{
+  padding: 10px 10px;
+}
+.nav-list-list:hover .sub-menu{
+  visibility: visible;
+  opacity: 1;
+  transition: 1s;
+}
 /* sitebar menu area style start here  */
 #left-panel, #left-panel  {
   transition: all 0s ease !important;
@@ -328,15 +348,15 @@ color: #ddd;
   background-position: center;
 }
 .hero-info-area{
-  text-align: center;
-  
+  text-align: center;  
 }
 .hero-info-area h2 {
   line-height: 62px;
   color: #fff;
   text-transform: capitalize;
   width: 75%;
-  margin: auto; 
+  margin: auto;
+  margin-bottom: 20px;
 }
 .hero-info-area p {
   text-transform: capitalize;
@@ -361,10 +381,10 @@ color: #ddd;
   transition: 1s;  
 }
 /* our search area  style start here  */
-.main-search-area{
+.main-search-area {
   display: flex;
   justify-content: space-between;
-  padding: 40px 20px;
+  padding: 20px;
   border: 2px solid #f2eeec;
   border-radius: 15px;
 }
@@ -378,11 +398,12 @@ color: #ddd;
 .top-countre-area{
   margin: 40px 0;
 }
-.single-countre{
+.single-countre {
   background-color: #feffff;
   border: 2px solid #f2eeec;
   border-radius: 15px;
-  overflow: hidden;  
+  overflow: hidden;
+  padding: 20px;
 }
 .single-countre img{
   height: 180px;
@@ -682,4 +703,24 @@ color: #ddd;
 .w-icone-more h5{
   text-transform: capitalize;
   font-size: 20px;
+}
+/* our footer area style start here  */
+.footer-logo img{
+  height: 80px;
+}
+.our-footer-area {
+  background-color: #2a2831;
+  padding: 40px 0;
+  border-bottom: 2px solid #ddd;
+}
+.single-foter-info h4{
+  color: #fff;
+}
+.single-footer h4{
+  color: #fff;
+}
+.single-footer ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
